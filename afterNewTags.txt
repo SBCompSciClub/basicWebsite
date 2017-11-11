@@ -1,11 +1,14 @@
 <html>
 <head>
-		<title>Basic Website</title>
+    <title>Basic Website</title>
 </head>
-  	<body>
-  		<h1 style = "color: blue;"> All about Stranger Things!</h1>
-  		<h2 style = "color: red;"> Basic Information: </h2>
-  		<p> <b> A <em> Netflix </em> original TV Show starring Millie Bobby Brown, Gaten Matarazzo, Finn Wolfhard, Charlie Heaton and more! </b> </p>
+    <body>
+      <h1 style = "color: blue;"> All about Stranger Things!</h1>
+      <h2 style = "color: red;"> Basic Information: </h2>
+      <p> <b> A <em> Netflix </em> original TV Show starring Millie Bobby Brown, Gaten Matarazzo, Finn Wolfhard, Charlie Heaton and more! </b>
+       </p>
+       <br>
+       <a href = “https://www.netflix.com/?mqso=80031405&partid=%28domain+name%29”> Click Here to watch on Netflix! </a>
       <h3 style = "color: green;"> Fun Facts </h3>
       <ul>
         <li> Netflix auditioned 906 boys and 307 girls to find their young leads.</li>
@@ -74,18 +77,18 @@
 
       <hr>
 
-  		<h2 style = "color: red;"> Some Media Content </h2>
+      <h2 style = "color: red;"> Some Media Content </h2>
 
       <h3 style = "color: green;"> Some Pictures from Season One: </h3>
-  		<img src = http://cimg.tvgcdn.net/i/2017/10/21/e4ea1246-2670-4c38-ad1f-4c68d516f3c3/171020-strangerthings-mikeeleven.jpg width = "200px" height= "200px">
-  		<img src = http://cdn.wegotthiscovered.com/wp-content/uploads/2016/07/stranger-things-3.jpg width = "300px" height= "200px">
-  		<img src = https://pixel.nymag.com/imgs/daily/vulture/2016/07/12/stranger-things/12-stranger-things-8.w1200.h630.jpg width = "300px" height= "200px">
-  		<img src = https://www.thewrap.com/wp-content/uploads/2016/07/Stranger-Things-Monsters-Elle.jpg width = "200px" height= "200px">
-  		
+      <img src = http://cimg.tvgcdn.net/i/2017/10/21/e4ea1246-2670-4c38-ad1f-4c68d516f3c3/171020-strangerthings-mikeeleven.jpg width = "200px" height= "200px">
+      <img src = http://cdn.wegotthiscovered.com/wp-content/uploads/2016/07/stranger-things-3.jpg width = "300px" height= "200px">
+      <img src = https://pixel.nymag.com/imgs/daily/vulture/2016/07/12/stranger-things/12-stranger-things-8.w1200.h630.jpg width = "300px" height= "200px">
+      <img src = https://www.thewrap.com/wp-content/uploads/2016/07/Stranger-Things-Monsters-Elle.jpg width = "200px" height= "200px">
+      
       <h3 style = "color: green;"> A Clip of the first Episode: </h3>
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/CKtq-bZgS8I" frameborder="0" allowfullscreen></iframe> 
 
 
-  	</body>
+    </body>
 </html>
